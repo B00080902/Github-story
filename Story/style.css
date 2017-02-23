@@ -20,7 +20,16 @@ h2 {
     font-size: small;
 }
 #chapter1 img {
-    text-align: center;
+    /*text-align: center;*/
     margin-right: auto;
     margin-left: auto;
+    width: 80%;
+}
+
+#chapter1 {
+    display: flex;
+}
+
+#chapter1 section {
+    flex: 1;
 }
