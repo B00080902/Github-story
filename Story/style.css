@@ -19,3 +19,8 @@ h2 {
 #chapter3 p {
     font-size: small;
 }
+#chapter1 img {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
