@@ -14,22 +14,36 @@ h2 {
     text-align: center;
 }
 
-#chapter1,
-#chapter2,
-#chapter3 p {
+#chapter,
+#chapter,
+#chapter p {
     font-size: small;
 }
-#chapter1 img {
+#chapter img {
     /*text-align: center;*/
     margin-right: auto;
     margin-left: auto;
     width: 80%;
 }
 
-#chapter1 {
+#chapter {
     display: flex;
 }
 
-#chapter1 section {
+#chapter section {
     flex: 1;
+}
+
+#container section a {
+    text-decoration: none;
+    color: #4d4d4d;
+    transition: 0.5s;
+}
+
+
+#container section a:hover{
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.5s;
+
 }
