@@ -1,2 +1,2 @@
 # Github-story
-GitHub story for Web Framework Development
+Chapter 3 - Alternative ending in Development (dev) branch
