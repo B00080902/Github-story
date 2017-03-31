@@ -1,12 +1,6 @@
 body {
-    width: 60%;
-    margin-right: auto;
-    margin-left: auto;
-    background-color: cornflowerblue;
-    font-family: sans-serif;
-    border-left: 1px solid #FFFFFF;
-    border-right: 1px solid #FFFFFF;
-    padding: 5%;
+    background-color: #8db0f2;
+    margin: 0 auto;
 }
 
 h2 {
@@ -14,13 +8,10 @@ h2 {
     text-align: center;
 }
 
-#chapter,
-#chapter,
 #chapter p {
-    font-size: small;
+    font-size: 13px;
 }
 #chapter img {
-    /*text-align: center;*/
     margin-right: auto;
     margin-left: auto;
     width: 80%;
@@ -46,4 +37,16 @@ h2 {
     color: aliceblue;
     transition: 0.5s;
 
+}
+
+#container {
+    width: 60%;
+    background-color: #6495ed;
+    font-family: sans-serif;
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px #fff;
+    margin: 0 auto;
 }
